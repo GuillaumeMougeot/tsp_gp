@@ -19,6 +19,6 @@ This repo presents three different solutions to the travelling salesman problem:
 
 To execute this code simple run:
 ```
-python genetic programming_TSP.py
+python genetic_programming_TSP.py
 ```
 
